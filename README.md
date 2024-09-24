@@ -1,4 +1,4 @@
-# JavaLabProject
+# Java lab worksheet 1
 
 This repository contains Java solutions for five basic programming tasks:
 
