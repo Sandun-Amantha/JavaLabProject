@@ -1,11 +1,9 @@
-# Java lab worksheet 1
+# Java lab worksheet solutions
 
-This repository contains Java solutions for five basic programming tasks:
+This repository contains Java solutions for lab worksheets.
 
-1. **Middle Character Extraction**: Prints the middle character of an odd-length word.
-2. **Name Formatter**: Formats a full name as `last, first middle-initial.`.
-3. **Unit Converter**: Converts centimeters to feet and inches.
-4. **Window Display**: Creates a 300x200 window titled "My First Frame".
-5. **Circular Region Area**: Calculates the area between two circles.
+**LW** - lab worksheet nuumber
+**Q** - Question number
+ex :-  **LW2Q2** - lab worksheet 2 question number 2
 
 
